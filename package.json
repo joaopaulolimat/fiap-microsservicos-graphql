@@ -1,0 +1,26 @@
+{
+  "name": "fiap-microsservicos-graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaopaulolimat/fiap-microsservicos-graphql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaopaulolimat/fiap-microsservicos-graphql/issues"
+  },
+  "homepage": "https://github.com/joaopaulolimat/fiap-microsservicos-graphql#readme",
+  "dependencies": {
+    "apollo-server": "^3.8.1",
+    "express": "^4.18.1",
+    "graphql": "^16.5.0",
+    "graphql-tools": "^8.2.11"
+  }
+}
